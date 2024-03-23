@@ -1,2 +1,2 @@
 # AdaptiveCrossControll_NTI_Project
-NTI project
+NTI AVR project
