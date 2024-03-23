@@ -1,0 +1,11 @@
+.project
+.cproject
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.settings/de.innot.avreclipse.core.prefs
+Debug/Timer1_Prog.o
+*.d
+*.o
+*.hex
+Debug/*
