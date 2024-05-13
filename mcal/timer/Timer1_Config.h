@@ -1,8 +1,10 @@
 /*
- * Timer1_Config.h
- *
- *  Created on: Mar 17, 2024
- *      Author: samy
+ ===================================================================================================
+ Module      : TIMER
+ File Name   : TIMER_PROG.c
+ Author      : Khaled Mustafa
+ Description : Source file for the AVR TIMER driver
+ ===================================================================================================
  */
 
 #ifndef TIMER1_CONFIG_H_

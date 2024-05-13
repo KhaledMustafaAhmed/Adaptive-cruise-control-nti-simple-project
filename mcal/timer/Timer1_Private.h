@@ -1,8 +1,10 @@
 /*
- * Timer1_Private.h
- *
- *  Created on: Mar 17, 2024
- *      Author: samy
+ ===================================================================================================
+ Module      : TIMER
+ File Name   : TIMER_PROG.c
+ Author      : Khaled Mustafa
+ Description : Source file for the AVR TIMER driver
+ ===================================================================================================
  */
 
 #ifndef TIMER1_PRIVATE_H_

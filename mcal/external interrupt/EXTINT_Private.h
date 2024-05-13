@@ -1,10 +1,11 @@
 /*
- * EXTINT_Private.h
- *
- *  Created on: ???/???/????
- *      Author: dell
+ ===================================================================================================
+ Module      : EXTI
+ File Name   : EXTI_PROG.c
+ Author      : Khaled Mustafa
+ Description : Source file for the AVR EXTI driver
+ ===================================================================================================
  */
-
 #ifndef MCAL_EXTINT_EXTINT_PRIVATE_H_
 #define MCAL_EXTINT_EXTINT_PRIVATE_H_
 

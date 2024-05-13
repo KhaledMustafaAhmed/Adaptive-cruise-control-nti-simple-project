@@ -1,8 +1,10 @@
 /*
- * EXTINT_Interface.h
- *
- *  Created on: ???/???/????
- *      Author: dell
+ ===================================================================================================
+ Module      : EXTI
+ File Name   : EXTI_PROG.c
+ Author      : Khaled Mustafa
+ Description : Source file for the AVR EXTI driver
+ ===================================================================================================
  */
 
 #ifndef MCAL_EXTINT_EXTINT_INTERFACE_H_

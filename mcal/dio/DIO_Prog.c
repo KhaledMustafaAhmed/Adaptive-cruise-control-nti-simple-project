@@ -2,7 +2,7 @@
  ===================================================================================================
  Module      : DIO
  File Name   : DIO_PROG.c
- Author      : Mohamed Samy
+ Author      : Khaled Mustafa
  Description : Source file for the AVR DIO driver
  ===================================================================================================
  */
