@@ -1,2 +1,2 @@
-# AdaptiveCrossControll_NTI_Project
-NTI project
+# Adaptive-cruise-control-nti-simple-project
+NTI AVR project
